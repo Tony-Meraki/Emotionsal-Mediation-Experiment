@@ -1,0 +1,2 @@
+﻿KioskNumber, QuestionNumber,Invoked Time,Is Checked,Checked Time,Number of Waiting Kiosk,Answerd Time,Used Time,QuestionType,Question,Correct Answer,User Answer,Is Right Answer
+4,1,10.00061,False,0,2,10.18913,0.1885204, ,저희 집에 요금이 잘못 청구되었어요. 확인해 주시겠어요?##네, 고객님의 요금 내역을 확인해 보겠습니다. 고객님께서 말씀하시는 요금 문제는 무엇인가요?##아니 이사람아 한번 보세요 제가 사용한 만큼의 요금이 청구되지 않았어요.##알겠습니다. 고객님의 요금 내역을 다시 확인해 보겠습니다.##빨리 해결해!##이해합니다. ,,,True,
