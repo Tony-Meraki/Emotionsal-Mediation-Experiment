@@ -1,7 +1,6 @@
-# ControlHASS_Assistance
+# Emotional Mediation Experiment
 
-ControlHASS 2번째 실험
-대화말투와 얼굴표정에 대한 중재기법을 적용할 때 Work Load와 부정적인 감정 변화를 측정하기 위한 실험 프로그램
+An experimental program to measure work load and negative emotional changes when applying intervention techniques for conversational speech and facial expressions
 
 ## Getting started
 
