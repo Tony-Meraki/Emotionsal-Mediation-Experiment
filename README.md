@@ -1,7 +1,7 @@
 # ControlHASS_Assistance
 
 ControlHASS 2번째 실험
-Assistance기법을 적용할 때 Work Load 변화를 측정하기 위한 실험 프로그램
+대화말투와 얼굴표정에 대한 중재기법을 적용할 때 Work Load와 부정적인 감정 변화를 측정하기 위한 실험 프로그램
 
 ## Getting started
 
